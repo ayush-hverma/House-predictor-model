@@ -1,0 +1,2 @@
+# House-predictor-model
+The house price prediction project involves creating a simple linear regression model to predict house prices based on their size. Using Python libraries like `numpy`, `matplotlib`, and `scikit-learn`, the project demonstrates essential machine learning tasks: data preparation, model training, prediction, and visualization. The project showcases how to understand and visualize the linear relationship between house size and price, providing insights into how the model makes predictions based on historical data.
